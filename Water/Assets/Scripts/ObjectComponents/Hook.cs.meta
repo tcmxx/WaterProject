@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc24a88a6d6b93f4cb894984e9e3cfa3
+timeCreated: 1461378008
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ropePrefab: {fileID: 143516, guid: 607942506c04d3e4fb6931168fde6a69, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+You can have more textures in Flare texture package:
+https://www.assetstore.unity3d.com/#/content/6659

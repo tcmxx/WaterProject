@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 4c62b4a0733b3594db9d24754b027302
+timeCreated: 1460216383
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterHDSuperQualitySpriteSheet2_0
+    21300002: WaterHDSuperQualitySpriteSheet2_1
+    21300004: WaterHDSuperQualitySpriteSheet2_2
+    21300006: WaterHDSuperQualitySpriteSheet2_3
+    21300008: WaterHDSuperQualitySpriteSheet2_4
+    21300010: WaterHDSuperQualitySpriteSheet2_5
+    21300012: WaterHDSuperQualitySpriteSheet2_6
+    21300014: WaterHDSuperQualitySpriteSheet2_7
+    21300016: WaterHDSuperQualitySpriteSheet2_8
+    21300018: WaterHDSuperQualitySpriteSheet2_9
+    21300020: WaterHDSuperQualitySpriteSheet2_10
+    21300022: WaterHDSuperQualitySpriteSheet2_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WaterHDSuperQualitySpriteSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 56}
+        - {x: 62, y: 87}
+        - {x: -55, y: 87}
+        - {x: -70, y: 51}
+        - {x: -81, y: -77}
+        - {x: -90, y: -99}
+        - {x: -90, y: -114}
+        - {x: -88, y: -118}
+        - {x: 95, y: -118}
+        - {x: 95, y: -63}
+        - {x: 72, y: 47}
+    - name: WaterHDSuperQualitySpriteSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 89}
+        - {x: -34, y: 89}
+        - {x: -65, y: 84}
+        - {x: -86, y: 52}
+        - {x: -96, y: -46}
+        - {x: -104, y: -89}
+        - {x: -104, y: -114}
+        - {x: -102, y: -118}
+        - {x: 81, y: -118}
+        - {x: 81, y: -8}
+        - {x: 70, y: 44}
+    - name: WaterHDSuperQualitySpriteSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 65}
+        - {x: 46, y: 87}
+        - {x: -72, y: 87}
+        - {x: -111, y: 50}
+        - {x: -103, y: 36}
+        - {x: -114, y: -70}
+        - {x: -125, y: -98}
+        - {x: -125, y: -115}
+        - {x: -114, y: -120}
+        - {x: -52, y: -121}
+        - {x: 71, y: -121}
+        - {x: 76, y: -116}
+        - {x: 76, y: -85}
+        - {x: 69, y: -46}
+      - - {x: 111, y: -102}
+        - {x: 111, y: -112}
+        - {x: 120, y: -118}
+        - {x: 125, y: -118}
+        - {x: 125, y: -71}
+        - {x: 122, y: -72}
+    - name: WaterHDSuperQualitySpriteSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 54}
+        - {x: 15, y: 82}
+        - {x: -24, y: 87}
+        - {x: -73, y: 87}
+        - {x: -79, y: 85}
+        - {x: -110, y: 49}
+        - {x: -125, y: -8}
+        - {x: -125, y: -118}
+        - {x: -42, y: -120}
+        - {x: 60, y: -120}
+        - {x: 60, y: -93}
+        - {x: 55, y: -54}
+    - name: WaterHDSuperQualitySpriteSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 57}
+        - {x: -14, y: 57}
+        - {x: -67, y: 26}
+        - {x: -96, y: -87}
+        - {x: -96, y: -99}
+        - {x: -95, y: -104}
+        - {x: 84, y: -104}
+        - {x: 87, y: -103}
+        - {x: 87, y: -76}
+        - {x: 64, y: 30}
+    - name: WaterHDSuperQualitySpriteSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 51}
+        - {x: -28, y: 51}
+        - {x: -78, y: 19}
+        - {x: -109, y: -86}
+        - {x: -109, y: -100}
+        - {x: -108, y: -104}
+        - {x: 73, y: -104}
+        - {x: 76, y: -100}
+        - {x: 76, y: -71}
+        - {x: 45, y: 28}
+    - name: WaterHDSuperQualitySpriteSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 51}
+        - {x: -125, y: -35}
+        - {x: -125, y: -104}
+        - {x: 62, y: -104}
+        - {x: 62, y: -32}
+        - {x: 58, y: 24}
+        - {x: 15, y: 51}
+      - - {x: 110, y: -93}
+        - {x: 110, y: -101}
+        - {x: 114, y: -104}
+        - {x: 125, y: -104}
+        - {x: 125, y: -80}
+        - {x: 121, y: -80}
+      - - {x: 121, y: -63}
+        - {x: 121, y: -67}
+        - {x: 124, y: -70}
+        - {x: 125, y: -70}
+        - {x: 125, y: -60}
+        - {x: 124, y: -60}
+    - name: WaterHDSuperQualitySpriteSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: -104}
+        - {x: 44, y: -104}
+        - {x: 44, y: -60}
+        - {x: 38, y: -26}
+        - {x: 9, y: -6}
+        - {x: -69, y: -6}
+        - {x: -125, y: -55}
+    - name: WaterHDSuperQualitySpriteSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -43}
+        - {x: -49, y: -43}
+        - {x: -98, y: -63}
+        - {x: -98, y: -90}
+        - {x: 100, y: -90}
+        - {x: 100, y: -67}
+        - {x: 85, y: -53}
+    - name: WaterHDSuperQualitySpriteSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -65}
+        - {x: -60, y: -66}
+        - {x: -90, y: -77}
+        - {x: -93, y: -82}
+        - {x: -93, y: -87}
+        - {x: -88, y: -91}
+        - {x: 78, y: -91}
+        - {x: 82, y: -85}
+        - {x: 82, y: -79}
+        - {x: 71, y: -65}
+    - name: WaterHDSuperQualitySpriteSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 249
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -76}
+        - {x: -58, y: -77}
+        - {x: -58, y: -86}
+        - {x: -56, y: -89}
+        - {x: -33, y: -89}
+        - {x: -28, y: -88}
+        - {x: -28, y: -79}
+        - {x: -30, y: -76}
+      - - {x: -23, y: -74}
+        - {x: -23, y: -83}
+        - {x: -21, y: -89}
+        - {x: 50, y: -89}
+        - {x: 52, y: -86}
+        - {x: 52, y: -74}
+      - - {x: -75, y: -74}
+        - {x: -115, y: -74}
+        - {x: -118, y: -76}
+        - {x: -118, y: -85}
+        - {x: -117, y: -88}
+        - {x: -70, y: -88}
+        - {x: -70, y: -78}
+        - {x: -72, y: -75}
+    - name: WaterHDSuperQualitySpriteSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 250
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

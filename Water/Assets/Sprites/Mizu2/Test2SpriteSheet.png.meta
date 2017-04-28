@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 41dcc1e88e85a934c84c83d115a3f970
+timeCreated: 1484953742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Test2SpriteSheet_0
+    21300002: Test2SpriteSheet_1
+    21300004: Test2SpriteSheet_2
+    21300006: Test2SpriteSheet_3
+    21300008: Test2SpriteSheet_5
+    21300010: Test2SpriteSheet_6
+    21300012: Test2SpriteSheet_7
+    21300014: Test2SpriteSheet_8
+    21300016: Test2SpriteSheet_9
+    21300018: Test2SpriteSheet_10
+    21300020: Test2SpriteSheet_11
+    21300022: Test2SpriteSheet_12
+    21300024: Test2SpriteSheet_13
+    21300026: Test2SpriteSheet_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Test2SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 103.60158
+        y: 2202.8752
+        width: 568.1055
+        height: 736.5625
+      alignment: 9
+      pivot: {x: 0.3600129, y: 0.6416867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2438
+        width: 780.5078
+        height: 440.66406
+      alignment: 9
+      pivot: {x: 0.49903426, y: 0.4981124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2339.7188
+        width: 828.84766
+        height: 636.9531
+      alignment: 9
+      pivot: {x: 0.49948892, y: 0.4902739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 2510
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1371
+        width: 383.5351
+        height: 721.91406
+      alignment: 9
+      pivot: {x: 0.49669522, y: 0.4993671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1549.299
+        y: 1821.9863
+        width: 491.9336
+        height: 459.70703
+      alignment: 9
+      pivot: {x: 0.50880665, y: 0.25267878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1419
+        width: 465.5664
+        height: 803.9453
+      alignment: 9
+      pivot: {x: 0.49831775, y: 0.49941224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1715
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1698
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1569
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 191.00002
+        y: 580
+        width: 818.59375
+        height: 648.6719
+      alignment: 9
+      pivot: {x: 0.49841574, y: 0.49871132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 351.99997
+        width: 455.3125
+        height: 1055.8984
+      alignment: 9
+      pivot: {x: 0.49855897, y: 0.499101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1113
+        width: 317.6172
+        height: 461.17188
+      alignment: 9
+      pivot: {x: 0.49745458, y: 0.49872947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test2SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 821.00006
+        width: 342.51953
+        height: 553.457
+      alignment: 9
+      pivot: {x: 0.4977818, y: 0.49778023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97844041394642
+  assetBundleName: 
+  assetBundleVariant: 

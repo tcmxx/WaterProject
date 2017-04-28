@@ -1,0 +1,2 @@
+To correctly display the demo scenes You needs "Tag Manager" in current project (ProjectSettings). 
+File and information how to install You will find in the !TAGMANAGER directory in current project.

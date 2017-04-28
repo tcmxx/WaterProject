@@ -1,0 +1,35 @@
+Mobility_Free
+A Subset of “Mobility1” 
+
+Check out the video here:
+http://youtu.be/CEP-UXbXjN4
+
+10 MoCap Mobility Animations - a free set of AAA game-ready motions to move your character around. 
+
+Includes a standing idle, a walk, jog, run, crouch idle and walk, a walking running and jogging jump, and a standing death.
+
+All idles and transitions have been carefully pose-matched, for seamless motion trees.
+All animations are .fbx format, standard fbx bone names.
+
+UNITY 3D NOTES:
+
+“MotusMan_v2” can be used as the main Avatar, and all files are currently set to “Generic”.
+
+Of course, all parameters can be altered and set up to implement the animations as you wish. If the Rig is set to “Humanoid”, all “Muscle” assignments should automatically be correct, except for “Chest”. “MotusMan_v2” has three spine bones, and the third, “Spine2”, is likely the better choice versus the auto-choice “Spine1”.
+
+Please refer to the Unity documentation or contact us with any other questions.
+mocap@motusdigital.com
+
+ANIMATION LIST
+MOB1_M1_Stand_Relaxed_Idle
+MOB1_M1_Jog_F
+MOB1_M1_Run_F
+MOB1_M1_Crouch_Idle
+MOB1_M1_CrouchWalk_F
+MOB1_M1_Walk_F_Jump
+MOB1_M1_Jog_F_Jump
+MOB1_M1_Run_F_Jump
+MOB1_M1_Walk_F
+MOB1_M1_Stand_Relaxed_Death_B
+
+Provided Motus Man character is copyright © Motus Digital, LLC

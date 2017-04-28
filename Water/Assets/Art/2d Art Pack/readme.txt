@@ -1,0 +1,1 @@
+Mechanics of the project (scripts, character) is based on Unity 2D Platformer: https://www.assetstore.unity3d.com/#/content/11228

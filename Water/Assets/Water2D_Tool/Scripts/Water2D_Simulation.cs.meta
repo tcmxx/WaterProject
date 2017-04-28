@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 39104e7689a801045a284cca0676d421
+labels:
+- Buoyancy
+- Water
+- Water2D
+- 2DWater
+- Physics
+- WaterAnimation
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 609c67f086b291d4ebe570916a17b102, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

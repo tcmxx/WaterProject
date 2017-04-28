@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 0a695b0a77b2b1249860d9dcafdffa72
+timeCreated: 1489014124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mel_spreadsheet_12217_0
+    21300002: Mel_spreadsheet_12217_1
+    21300004: Mel_spreadsheet_12217_2
+    21300006: Mel_spreadsheet_12217_3
+    21300008: Mel_spreadsheet_12217_4
+    21300010: Mel_spreadsheet_12217_6
+    21300012: Mel_spreadsheet_12217_7
+    21300014: Mel_spreadsheet_12217_8
+    21300016: Mel_spreadsheet_12217_9
+    21300018: Mel_spreadsheet_12217_10
+    21300020: Mel_spreadsheet_12217_11
+    21300022: Mel_spreadsheet_12217_12
+    21300024: Mel_spreadsheet_12217_13
+    21300026: Mel_spreadsheet_12217_14
+    21300028: Mel_spreadsheet_12217_15
+    21300030: Mel_spreadsheet_12217_16
+    21300032: Mel_spreadsheet_12217_17
+    21300034: Mel_spreadsheet_12217_18
+    21300036: Mel_spreadsheet_12217_19
+    21300038: Mel_spreadsheet_12217_20
+    21300040: Mel_spreadsheet_12217_21
+    21300042: Mel_spreadsheet_12217_22
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_0
+      rect:
+        serializedVersion: 2
+        x: 122.543
+        y: 1448.2305
+        width: 545.89844
+        height: 1551.7695
+      alignment: 9
+      pivot: {x: 0.49726644, y: 0.5015366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_1
+      rect:
+        serializedVersion: 2
+        x: 831.28925
+        y: 1447.3948
+        width: 525.9764
+        height: 1504.1404
+      alignment: 9
+      pivot: {x: 0.37164664, y: 0.61479455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_2
+      rect:
+        serializedVersion: 2
+        x: 1326.9923
+        y: 2409.6636
+        width: 834.76526
+        height: 474.17944
+      alignment: 9
+      pivot: {x: 0.47858673, y: 0.32337213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_3
+      rect:
+        serializedVersion: 2
+        x: 2941.0002
+        y: 2260.8232
+        width: 468.20312
+        height: 691.2749
+      alignment: 9
+      pivot: {x: 0.4976462, y: 0.4993332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_4
+      rect:
+        serializedVersion: 2
+        x: 3493.0002
+        y: 2260.8232
+        width: 468.20312
+        height: 691.2749
+      alignment: 9
+      pivot: {x: 0.4965783, y: 0.4993332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_6
+      rect:
+        serializedVersion: 2
+        x: 2172.5237
+        y: 1298.8475
+        width: 545.89844
+        height: 1134.3265
+      alignment: 9
+      pivot: {x: 0.5597124, y: 0.6350056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_7
+      rect:
+        serializedVersion: 2
+        x: 1325.2267
+        y: 1744.5535
+        width: 782.9686
+        height: 444.29663
+      alignment: 9
+      pivot: {x: 0.50228477, y: 0.49616942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_8
+      rect:
+        serializedVersion: 2
+        x: 2941.0002
+        y: 1531.88
+        width: 468.20312
+        height: 691.275
+      alignment: 9
+      pivot: {x: 0.4976462, y: 0.49852824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_9
+      rect:
+        serializedVersion: 2
+        x: 3493.0002
+        y: 1521.8807
+        width: 468.20312
+        height: 691.2748
+      alignment: 9
+      pivot: {x: 0.4965783, y: 0.49925047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_10
+      rect:
+        serializedVersion: 2
+        x: 90.38282
+        y: 891.32336
+        width: 348.67184
+        height: 555.85925
+      alignment: 9
+      pivot: {x: 0.5008067, y: 0.49414784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_11
+      rect:
+        serializedVersion: 2
+        x: 600.3828
+        y: 580.1795
+        width: 615.625
+        height: 858.6717
+      alignment: 9
+      pivot: {x: 0.5678336, y: 0.5633395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1422.8885
+        width: 32.00006
+        height: 17.999512
+      alignment: 9
+      pivot: {x: 0.49999714, y: 0.5062054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_13
+      rect:
+        serializedVersion: 2
+        x: 1321.1954
+        y: 825.09644
+        width: 584.4149
+        height: 674.8899
+      alignment: 9
+      pivot: {x: 0.2708768, y: 0.45845026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_14
+      rect:
+        serializedVersion: 2
+        x: 2939.5393
+        y: 809.03345
+        width: 470.1953
+        height: 693.3202
+      alignment: 9
+      pivot: {x: 0.49864477, y: 0.5011632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_15
+      rect:
+        serializedVersion: 2
+        x: 3493.0002
+        y: 810.9363
+        width: 468.20312
+        height: 693.26697
+      alignment: 9
+      pivot: {x: 0.4965783, y: 0.49845693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_16
+      rect:
+        serializedVersion: 2
+        x: 64.26564
+        y: 289.08313
+        width: 402.46088
+        height: 502.07025
+      alignment: 9
+      pivot: {x: 0.4987674, y: 0.49976435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_17
+      rect:
+        serializedVersion: 2
+        x: 883.4766
+        y: 188.70244
+        width: 458.12762
+        height: 255.03905
+      alignment: 9
+      pivot: {x: 0.4333361, y: 0.49324822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_18
+      rect:
+        serializedVersion: 2
+        x: 1451.2948
+        y: 62.236015
+        width: 393.35388
+        height: 687.3437
+      alignment: 9
+      pivot: {x: 0.56744087, y: 0.50231636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_19
+      rect:
+        serializedVersion: 2
+        x: 2090.2266
+        y: 86.30872
+        width: 550.77954
+        height: 1150.6268
+      alignment: 9
+      pivot: {x: 0.588313, y: 0.58808386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_20
+      rect:
+        serializedVersion: 2
+        x: 2941.0002
+        y: 89.99259
+        width: 468.20312
+        height: 691.2749
+      alignment: 9
+      pivot: {x: 0.4976462, y: 0.49836525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_21
+      rect:
+        serializedVersion: 2
+        x: 3493.0002
+        y: 89.99259
+        width: 468.20312
+        height: 691.2749
+      alignment: 9
+      pivot: {x: 0.4965783, y: 0.49836525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mel_spreadsheet_12217_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 272.97827
+        width: 17.00003
+        height: 14.999634
+      alignment: 9
+      pivot: {x: 0.49999732, y: 0.50145876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97844044191783
+  assetBundleName: 
+  assetBundleVariant: 

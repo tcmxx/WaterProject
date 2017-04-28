@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 62b293d77d1b9384e964837c40c15ae9
+timeCreated: 1484870283
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TEST_MelSpritesheet_0
+    21300002: TEST_MelSpritesheet_1
+    21300004: TEST_MelSpritesheet_2
+    21300006: TEST_MelSpritesheet_3
+    21300008: TEST_MelSpritesheet_4
+    21300010: TEST_MelSpritesheet_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 242.46484
+        y: 1959.9999
+        width: 833.2422
+        height: 922.5978
+      alignment: 9
+      pivot: {x: 0.49809667, y: 0.49967614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1946
+        width: 818.59375
+        height: 894.7656
+      alignment: 9
+      pivot: {x: 0.50024813, y: 0.4990136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 178.71739
+        y: 1020.2682
+        width: 424.55078
+        height: 896.23035
+      alignment: 9
+      pivot: {x: 0.6459707, y: 0.87136036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 442.01166
+        y: 193.17575
+        width: 376.21094
+        height: 839.10156
+      alignment: 9
+      pivot: {x: 0.49968883, y: 0.49972996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1706.3868
+        y: 918.0781
+        width: 335.1953
+        height: 858.14453
+      alignment: 9
+      pivot: {x: 0.49407992, y: 0.4998249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEST_MelSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 860
+        width: 26
+        height: 24.999939
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.5000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97844041407448
+  assetBundleName: 
+  assetBundleVariant: 
