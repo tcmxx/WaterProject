@@ -12,6 +12,7 @@ public class HookRope : AttachableObject {
 	public float hookMaxRange;
 	public float maxPullingForce;
 	public float desiredPullingSpeed;
+    public float swingForce = 10.0f;
 	public Transform ropeHead;
 	public Transform ropeEnd;
 	public SliderJoint2D sliderJoint;
@@ -45,7 +46,7 @@ public class HookRope : AttachableObject {
 			DestroyHookRope ();
 		}
 		if (hooked == true) {
-			UpdateHookForce ();
+			UpdateHookForceAndLength ();
 		}
 	}
 
@@ -121,7 +122,13 @@ public class HookRope : AttachableObject {
 				attachedPlayer.Attach (this);
 				attachedPlayer.GetComponent <Rigidbody2D>().constraints = RigidbodyConstraints2D.None;
 				lim.min = -sliderJoint.jointTranslation;
-			}
+
+                //remove the player's speed in the rope's direction
+                Vector3 playerVel = attachedPlayer.GetComponent<Rigidbody2D>().velocity;
+                Vector3 ropeDir = (ropeEnd.position - ropeHead.position).normalized;
+                attachedPlayer.GetComponent<Rigidbody2D>().velocity = playerVel - Vector3.Dot(playerVel, ropeDir) * ropeDir;
+
+            }
 			fixedJoint.enabled = true;
 			sliderJoint.enabled = true;
 			//reset the limit
@@ -136,14 +143,19 @@ public class HookRope : AttachableObject {
 		//do not call the base one
 	}
 
-	private void UpdateHookForce(){
+	private void UpdateHookForceAndLength(){
 		if (hookedHasRigidBody) {
 			JointMotor2D motor = sliderJoint.motor;
 			motor.maxMotorTorque = maxPullingForce;
 			motor.motorSpeed = -desiredPullingSpeed;
 			sliderJoint.motor = motor;
 			sliderJoint.useMotor = true;
-		} 
+		}
+        else
+        {
+            //keep the distance unchanged to fix the unity physics problem
+            //for now ignore the problem
+        }
 	}
 
 
@@ -191,7 +203,7 @@ public class HookRope : AttachableObject {
 
 	public override void Move (float horizontal, MainPlayer playerRef){
 
-		playerRef.GetComponent<Rigidbody2D>().AddForce(Vector2.right* horizontal*1);
+		playerRef.GetComponent<Rigidbody2D>().AddForce(Vector2.right* horizontal* swingForce);
 		return;
 	}
 
